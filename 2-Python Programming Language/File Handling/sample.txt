@@ -1,0 +1,11 @@
+
+Hello, welcome to C++ file operations!
+
+My name is Aryan.
+I am learning C++ programming.
+File handling is an important concept in C++.
+
+C++ supports reading, writing, and appending files.
+We can use open() to work with text files.
+
+This is the last line of the sample file.
