@@ -13,6 +13,7 @@ The sections below reflect what I have organized in the repository so far. I wil
 | [3. Object-Oriented Programming](./3-Object%20Oriented%20Programming/) | Classes, objects, and inheritance |
 | [4. Advanced Python](./4-Advance%20Python/) | Iterators, generators, and decorators |
 | [5. Data Analysis in Python](./5-Data%20Analysis%20In%20Python/) | NumPy, Pandas, data manipulation, reading data, and visualization with Matplotlib and Seaborn |
+| [6. SQLite3](./6-SQLITE3/) | Creating and connecting to databases, inserting and querying data, updating and deleting records, advanced queries, transactions, relationships, indexing, and backup and restore |
 
 ## Areas I am exploring
 
@@ -54,7 +55,8 @@ Machine-Learning-Journey/
 ├── 2-Python Programming Language/
 ├── 3-Object Oriented Programming/
 ├── 4-Advance Python/
-└── 5-Data Analysis In Python/
+├── 5-Data Analysis In Python/
+└── 6-SQLITE3/
 ```
 
 ## Notes
