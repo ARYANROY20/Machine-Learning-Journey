@@ -14,6 +14,7 @@ The sections below reflect what I have organized in the repository so far. I wil
 | [4. Advanced Python](./4-Advance%20Python/) | Iterators, generators, and decorators |
 | [5. Data Analysis in Python](./5-Data%20Analysis%20In%20Python/) | NumPy, Pandas, data manipulation, reading data, and visualization with Matplotlib and Seaborn |
 | [6. SQLite3](./6-SQLITE3/) | Creating and connecting to databases, inserting and querying data, updating and deleting records, advanced queries, transactions, relationships, indexing, and backup and restore |
+| [7. Logging in Python](./7-Logging%20In%20Python/) | Basic logging, custom and multiple formats, rotating file handlers, exception and contextual logging, and logging performance |
 
 ## Areas I am exploring
 
@@ -56,7 +57,8 @@ Machine-Learning-Journey/
 ├── 3-Object Oriented Programming/
 ├── 4-Advance Python/
 ├── 5-Data Analysis In Python/
-└── 6-SQLITE3/
+├── 6-SQLITE3/
+└── 7-Logging In Python/
 ```
 
 ## Notes
