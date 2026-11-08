@@ -15,6 +15,7 @@ The sections below reflect what I have organized in the repository so far. I wil
 | [5. Data Analysis in Python](./5-Data%20Analysis%20In%20Python/) | NumPy, Pandas, data manipulation, reading data, and visualization with Matplotlib and Seaborn |
 | [6. SQLite3](./6-SQLITE3/) | Creating and connecting to databases, inserting and querying data, updating and deleting records, advanced queries, transactions, relationships, indexing, and backup and restore |
 | [7. Logging in Python](./7-Logging%20In%20Python/) | Basic logging, custom and multiple formats, rotating file handlers, exception and contextual logging, and logging performance |
+| [8. Multithreading & Multiprocessing](./8-Multithreading%20%26%20Multiprocessing/) | Python concurrency with threads and processes, including parallel factorial computation |
 
 ## Areas I am exploring
 
@@ -33,7 +34,7 @@ The sections below reflect what I have organized in the repository so far. I wil
    cd Machine-Learning-Journey
    ```
 
-2. Open a notebook in VS Code or Jupyter Notebook.
+2. Open a notebook in VS Code or Jupyter Notebook, or run a standalone Python script from its section folder.
 
 3. If the section provides a `requirements.txt`, create a virtual environment and install its dependencies. For example, on Windows:
 
@@ -48,6 +49,15 @@ The sections below reflect what I have organized in the repository so far. I wil
 
 4. Run notebook cells in order. Some notebooks read data using relative paths, so set the notebook's working directory to its section folder.
 
+To run the multiprocessing factorial example:
+
+```powershell
+cd "8-Multithreading & Multiprocessing"
+python Factorial_multiprocessing.py
+```
+
+The script uses a multiprocessing pool to compute factorials in parallel and prints the results and elapsed time.
+
 ## Repository structure
 
 ```text
@@ -58,7 +68,8 @@ Machine-Learning-Journey/
 ├── 4-Advance Python/
 ├── 5-Data Analysis In Python/
 ├── 6-SQLITE3/
-└── 7-Logging In Python/
+├── 7-Logging In Python/
+└── 8-Multithreading & Multiprocessing/
 ```
 
 ## Notes
